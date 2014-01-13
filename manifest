@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: Allows displaying animated GIFs on iOS applications built with Appcelerator Titanium
+author: Marcel Pociot
+license: MIT / Creative Commons
+copyright: Marcel Pociot, Rob Mayoff
+
+
+# these should not be edited
+name: TiImageFromGIF
+moduleid: de.marcelpociot.imagefromgif
+guid: ed192f1b-5f0a-4643-a7d9-e500ff15d995
+platform: iphone
+minsdk: 3.1.3.GA
