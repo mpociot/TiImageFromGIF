@@ -7,7 +7,7 @@ Create a native iOS imageview with an animated GIF.
 
 ### Usage
 
-TiCircularProgress is pretty much a ProgressView replacement.
+TiImageFromGIF enhances the default Ti.ImageView component.
 
 	require('de.marcelpociot.imagefromgif');
 	
