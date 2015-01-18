@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3815B3D4-BCD6-4A8C-BB6C-CBD590A993F2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TiImageFromGIF</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>452F03615B249082C611A482C9A014A50AF53ECA</key>
+		<string>github.com:mpociot/TiImageFromGIF.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TiImageFromGIF.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>452F03615B249082C611A482C9A014A50AF53ECA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mpociot/TiImageFromGIF.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>452F03615B249082C611A482C9A014A50AF53ECA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>452F03615B249082C611A482C9A014A50AF53ECA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiImageFromGIF</string>
+		</dict>
+	</array>
+</dict>
+</plist>
